@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Memory_vs_sockets_server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Memory_vs_sockets_server_jar</output-path>
+    <root id="archive" name="Memory_vs_sockets.jar">
+      <element id="module-output" name="Memory_vs_sockets" />
+    </root>
+  </artifact>
+</component>

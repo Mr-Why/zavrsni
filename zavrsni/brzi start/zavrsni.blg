@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: zavrsni.aux
+The style file: fer.bst
+Database file #1: literatura.bib
+Warning--entry type for "hdd2" isn't style-file defined
+--line 19 of file literatura.bib
+Warning--entry type for "ram2" isn't style-file defined
+--line 25 of file literatura.bib
+Warning--entry type for "oracle" isn't style-file defined
+--line 31 of file literatura.bib
+Warning--entry type for "prices" isn't style-file defined
+--line 38 of file literatura.bib
+Warning--entry type for "ssd" isn't style-file defined
+--line 61 of file literatura.bib
+Warning--entry type for "hdd" isn't style-file defined
+--line 69 of file literatura.bib
+Warning--entry type for "ramO" isn't style-file defined
+--line 77 of file literatura.bib
+Warning--to sort, need author or key in ram2
+Warning--to sort, need author or key in hdd2
+Warning--to sort, need author or key in oracle
+Warning--empty year in hdd2
+Warning--empty year in oracle
+Warning--empty year in ram2
+Warning--empty year in ramO
+Warning--empty year in ssd
+Warning--empty journal in socket2
+Warning--empty year in hdd
+You've used 9 entries,
+            2773 wiz_defined-function locations,
+            634 strings with 6078 characters,
+and the built_in function-call counts, 2737 in all, are:
+= -- 239
+> -- 89
+< -- 5
++ -- 36
+- -- 27
+* -- 175
+:= -- 375
+add.period$ -- 26
+call.type$ -- 9
+change.case$ -- 36
+chr.to.int$ -- 9
+cite$ -- 31
+duplicate$ -- 144
+empty$ -- 296
+format.name$ -- 33
+if$ -- 593
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 2
+newline$ -- 52
+num.names$ -- 24
+pop$ -- 115
+preamble$ -- 1
+purify$ -- 27
+quote$ -- 0
+skip$ -- 127
+stack$ -- 0
+substring$ -- 21
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 99
+warning$ -- 10
+while$ -- 18
+width$ -- 0
+write$ -- 107
+(There were 17 warnings)

@@ -1,0 +1,60 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[hdd()]{hdd2}
+Tvrdi disk.
+\newblock URL \url{https://hr.wikipedia.org/wiki/Tvrdi_disk}.
+
+\bibitem[ora()]{oracle}
+Java platform, api specification.
+\newblock URL \url{https://docs.oracle.com/javase/7/docs/api/index.html}.
+
+\bibitem[ram()]{ram2}
+The random access memory computer science essay.
+\newblock URL
+  \url{https://www.ukessays.com/essays/computer-science/the-random-access-memory-computer-science-essay.php}.
+
+\bibitem[Haugen et~al.()Haugen, Myers, Sadler, i Whidden]{ramO}
+Peter Haugen, Ian Myers, Bret Sadler, i John Whidden.
+\newblock A basic overview of commonly encountered types of random access
+  memory (ram).
+\newblock URL
+  \url{https://www.rose-hulman.edu/Class/ee/yoder/ece332/Papers/RAM%20Technologies.pdf}.
+
+\bibitem[Hruska()]{ssd}
+Joel Hruska.
+\newblock How do ssds work?
+\newblock URL
+  \url{https://www.extremetech.com/extreme/210492-extremetech-explains-how-do-ssds-work}.
+
+\bibitem[Kalita(2014)]{socket}
+Limi Kalita.
+\newblock Socket programming.
+\newblock \emph{International Journal of Computer Science and Information
+  Technologies}, 5\penalty0 (3), 2014.
+\newblock URL
+  \url{http://ijcsit.com/docs/Volume%205/vol5issue03/ijcsit20140503462.pdf}.
+
+\bibitem[McKane(2018)]{prices}
+Jamie McKane.
+\newblock Ssd vs hdd -- rand per gb price comparison, March 2018.
+\newblock URL
+  \url{https://mybroadband.co.za/news/hardware/253373-ssd-vs-hdd-rand-per-gb-price-comparison.html}.
+
+\bibitem[Mitchell(2017)]{socket2}
+Bradley Mitchell.
+\newblock An overview of socket programming for computer networking.
+\newblock 2017.
+\newblock URL
+  \url{https://www.lifewire.com/socket-programming-for-computer-networking-4056385}.
+
+\bibitem[Woodford()]{hdd}
+Chris Woodford.
+\newblock Hard drives.
+\newblock URL \url{https://www.explainthatstuff.com/harddrive.html}.
+
+\end{thebibliography}
